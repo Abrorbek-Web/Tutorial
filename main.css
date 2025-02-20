@@ -14,13 +14,3 @@ body {
   margin: 1rem;
   font-family: Montserrat, sans-serif;
 }
-
-.logo {
-  width: 11%;
-  background-color: red;
-}
-
-div {
-  heigth: 10vh;
-  background-color: green;
-}
